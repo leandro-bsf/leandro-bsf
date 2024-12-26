@@ -26,11 +26,8 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
 
 ---
-## 🚀 **Por que Escolher o Leandro?**
-
-✨ **Inovador de Coração**: Sempre buscando o próximo grande avanço.  
-🌟 **Entusiasta de Aprendizado**: Novas tecnologias? Pode mandar!  
-🔥 **Focado em Impacto**: Meu objetivo é sempre entregar valor real e tangível.  
+## 🌟 Sobre mim  
+Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
 
 ---
 
