@@ -25,10 +25,7 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 ## 🌟 Sobre mim  
 Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
 
----
-## 🌟 Sobre mim  
-Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
-
+ 
 ---
 
 ## 🌍 **Vamos Conectar?**
