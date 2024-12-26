@@ -1,32 +1,31 @@
-# 👋✨ Olá, Mundo! Eu sou o **Leandro Barbosa**!
+# 👋 Olá! Eu sou o Leandro Barbosa  
 
-🎓 **Engenheiro de Software** formado pela **UTFPR**, com uma paixão pela tecnologia e inovação. Atualmente, estou mergulhando de cabeça em um **MBA em Tecnologia para Negócios** com foco em **Inteligência Artificial, Data Science e Big Data**. 🚀
+Sou formado em **Engenharia de Software** pela **UTFPR** e, atualmente, estou cursando um **MBA em Tecnologia para Negócios** com foco em **Inteligência Artificial, Data Science e Big Data**.  
 
-Sou movido pela curiosidade e motivado pelo impacto que a tecnologia pode trazer ao mundo! Vamos transformar ideias em realidade? 💡💻
-
----
-
-## 🛠️ **Minhas Super Skills**
-
-### 💻 **Frontend Hero**
-- ⚡ **React.js** & **Next.js**: Para interfaces rápidas e incríveis!  
-- 🎨 **Tailwind CSS**: Design elegante e responsivo em tempo recorde.  
-- 🌟 **JavaScript**: Para  desenvolvimento web moderno.  
-
-### 🧩 **Backend Wizard**
-- 🛠️ **Node.js**: O motor que faz tudo funcionar nos bastidores.  
-- 🐍 **Django Ninja**: APIs robustas e prontas para dominar o mundo.  
-
-### 🌐 **Fullstack Avenger**
-- 🌎 Criação de APIs completas e escaláveis que conectam o mundo.  
-- 🔄 Integração de sistemas para fluxos de trabalho impecáveis.  
-
-### 📊 **Data Sorcerer**
-- 🔍 Transformação de dados brutos em insights poderosos.  
-- 📈 Big Data e Inteligência Artificial: Dominando o futuro dos negócios.  
+Tenho paixão por tecnologia e acredito no poder dela para transformar negócios e facilitar o dia a dia das pessoas. Adoro desenvolver soluções que façam a diferença e sempre busco aprender algo novo.  
 
 ---
 
+## 🛠️ Habilidades  
+
+### 🌐 **Desenvolvimento Web**  
+- Frontend: **React.js**, **Next.js**, **Tailwind CSS** e **JavaScript**  
+- Backend: **Node.js**, **Python com Django Ninja**  
+
+### 📊 **Análise de Dados**  
+- Extração, tratamento e análise de dados para gerar insights relevantes  
+- Conhecimentos em **Big Data** e soluções inteligentes para negócios  
+
+### 🚀 **O que gosto de fazer**  
+- Criar **APIs completas** e escaláveis  
+- Trabalhar com dados para trazer respostas claras e estratégicas  
+
+---
+
+## 🌟 Sobre mim  
+Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
+
+---
 ## 🚀 **Por que Escolher o Leandro?**
 
 ✨ **Inovador de Coração**: Sempre buscando o próximo grande avanço.  
