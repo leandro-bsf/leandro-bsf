@@ -1,6 +1,6 @@
 # 👋✨ Olá, Mundo! Eu sou o **Leandro Barbosa**!
 
-🎓 **Engenheiro de Software** formado pela **UTFPR**, com uma paixão insaciável por tecnologia e inovação. Atualmente, estou mergulhando de cabeça em um **MBA em Tecnologia para Negócios** com foco em **Inteligência Artificial, Data Science e Big Data**. 🚀
+🎓 **Engenheiro de Software** formado pela **UTFPR**, com uma paixão pela tecnologia e inovação. Atualmente, estou mergulhando de cabeça em um **MBA em Tecnologia para Negócios** com foco em **Inteligência Artificial, Data Science e Big Data**. 🚀
 
 Sou movido pela curiosidade e motivado pelo impacto que a tecnologia pode trazer ao mundo! Vamos transformar ideias em realidade? 💡💻
 
@@ -11,7 +11,7 @@ Sou movido pela curiosidade e motivado pelo impacto que a tecnologia pode trazer
 ### 💻 **Frontend Hero**
 - ⚡ **React.js** & **Next.js**: Para interfaces rápidas e incríveis!  
 - 🎨 **Tailwind CSS**: Design elegante e responsivo em tempo recorde.  
-- 🌟 **JavaScript**: A alma do desenvolvimento web moderno.  
+- 🌟 **JavaScript**: Para  desenvolvimento web moderno.  
 
 ### 🧩 **Backend Wizard**
 - 🛠️ **Node.js**: O motor que faz tudo funcionar nos bastidores.  
@@ -38,13 +38,12 @@ Sou movido pela curiosidade e motivado pelo impacto que a tecnologia pode trazer
 ## 🌍 **Vamos Conectar?**
 
 - 📧 **Email**: [leandro.barbosa@email.com](mailto:leandro.barbosa@email.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/leandrobarbosa](https://linkedin.com/in/leandrobarbosa)  
-- 🖥️ **GitHub**: [github.com/LeandroBarbosa](https://github.com/LeandroBarbosa)  
+- 💼 **LinkedIn**: [[linkedin.com/in/leandrobarbosa]([https://www.linkedin.com/in/leandro-b-449b0a17a/](https://www.linkedin.com/in/leandro-b-449b0a17a/))]([https://linkedin.com/in/leandrobarbosa](https://www.linkedin.com/in/leandro-b-449b0a17a/))  
+- 🖥️ **GitHub**: [github.com/LeandroBarbosa](https://github.com/leandro-bsf)  
 
 ---
 
-![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroBarbosa&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBarbosa&layout=compact&theme=radical)  
+
 
 ---
 
