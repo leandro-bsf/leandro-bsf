@@ -18,7 +18,7 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 - Criação e orquestração de ambientes para aplicações e microsserviços  
 
 ### 🤖 **Automação e Inteligência Artificial**  
-- Criação de **agentes IA** usando **Evolutions API** e **plataformas Low-Code**  
+- Criação de **agentes IA** usando **Evolutions API** 
 - Automação de processos com **N8N**  
 - Criação de fluxos conversacionais com **Typebot**  
 - Integração com **Chatwoot** para centralização de canais de atendimento  
@@ -35,9 +35,8 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 
 ## 🌟 **Projetos em Andamento**  
 - 🛠️ **Centralização de atendimento multicanal** usando Chatwoot + N8N + Typebot  
-- 📸 **Plataforma online para fotógrafos**, com seleção de fotos, entrega protegida, vendas e integração com Lightroom  
 - 🗂️ **Servidor de imagens** otimizado com MinIO e Docker para alta performance  
-- 💳 Desenvolvimento de **dois projetos SaaS** com integração de **pagamentos recorrentes** e **controle automatizado de assinaturas** para gestão de clientes e planos  
+- 💳 Desenvolvi de **dois projetos SaaS Proejeto pessoal** com integração de **pagamentos recorrentes** e **controle automatizado de assinaturas** para gestão de clientes e planos.
 
 ---
 
