@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leandro Barbosa  
 
-Sou formado em **Engenharia de Software** pela **UTFPR** e, atualmente, estou cursando um **MBA em Tecnologia para Negócios** com foco em **Inteligência Artificial, Data Science e Big Data**.  
+Sou formado em **Engenharia de Software** pela **UTFPR**, com MBA em **Tecnologia para Negócios** (focado em **Inteligência Artificial, Data Science e Big Data**) e, atualmente, estou cursando **Mestrado em Inteligência Computacional**.  
 
 Tenho paixão por tecnologia e acredito no poder dela para transformar negócios e facilitar o dia a dia das pessoas. Adoro desenvolver soluções que façam a diferença e sempre busco aprender algo novo.  
 
@@ -32,17 +32,15 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 - Criar **APIs completas**, escaláveis e seguras  
 - Trabalhar com dados para trazer respostas claras e estratégicas  
 - Desenvolver soluções integradas para **automatização de negócios** e **melhoria da comunicação com clientes**  
-- Criar plataformas que conectam pessoas e otimizam processos (como minhas soluções para fotógrafos e sistemas de atendimento)  
+- Criar plataformas que conectam pessoas e otimizam processos  
 
 ---
 
-## 🌟 Sobre mim  
-Além de programar, gosto de aprender sobre novas tecnologias e como elas podem ajudar a resolver problemas reais. Estou sempre disposto a colaborar e a compartilhar conhecimentos.  
-
-Atualmente, trabalho em projetos próprios focados em:  
-- **Centralização de atendimento multicanal** usando Chatwoot + N8N + Typebot  
-- **Plataformas online** para fotógrafos e criadores de conteúdo, com recursos de seleção de fotos, entrega protegida, vendas e integração com ferramentas como Lightroom  
-- **Servidores de imagens** otimizados com **MinIO** e Docker  
+## 🌟 **Projetos em Andamento**  
+- 🛠️ **Centralização de atendimento multicanal** usando Chatwoot + N8N + Typebot  
+- 📸 **Plataforma online para fotógrafos**, com seleção de fotos, entrega protegida, vendas e integração com Lightroom  
+- 🗂️ **Servidor de imagens** otimizado com MinIO e Docker para alta performance  
+- 💳 Desenvolvimento de **dois projetos SaaS** com integração de **pagamentos recorrentes** e **controle automatizado de assinaturas** para gestão de clientes e planos  
 
 ---
 
