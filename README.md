@@ -28,6 +28,7 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 - Extração, tratamento e análise de dados.
 - Linguagem SQL
 
+
   
 ## 🚀 **O que gosto de fazer**  
 - Criar **APIs completas**, escaláveis e seguras  
