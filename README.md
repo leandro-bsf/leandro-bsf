@@ -24,7 +24,11 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 - Integração com **Chatwoot** para centralização de canais de atendimento  
 
 ---
+### 📊 **Análise de Dados**  
+- Extração, tratamento e análise de dados.
+- Linguagem SQL
 
+  
 ## 🚀 **O que gosto de fazer**  
 - Criar **APIs completas**, escaláveis e seguras  
 - Trabalhar com dados para trazer respostas claras e estratégicas  
