@@ -12,9 +12,6 @@ Tenho paixão por tecnologia e acredito no poder dela para transformar negócios
 - Frontend: **React.js**, **Next.js**, **Tailwind CSS** e **JavaScript**  
 - Backend: **Node.js**, **Python com Django Ninja**  
 
-### 📊 **Análise de Dados**  
-- Extração, tratamento e análise de dados para gerar insights relevantes  
-- Conhecimentos em **Big Data** e soluções inteligentes para negócios  
 
 ### 🐳 **Infraestrutura e Gerenciamento**  
 - Gerenciamento de containers com **Docker** e **Portainer**  
