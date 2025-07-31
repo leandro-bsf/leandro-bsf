@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leandro Barbosa  
 
-Sou formado em **Engenharia de Software** pela **UTFPR**, com MBA em **Tecnologia para Negócios** (focado em **Inteligência Artificial, Data Science e Big Data**) e, atualmente, estou cursando **Mestrado em Inteligência Computacional**.  
+Sou formado em **Engenharia de Software** pela **UTFPR** e atualmente, estou cursando **Mestrado em Inteligência Computacional**.  
 
 Tenho paixão por tecnologia e acredito no poder dela para transformar negócios e facilitar o dia a dia das pessoas. Adoro desenvolver soluções que façam a diferença e sempre busco aprender algo novo.  
 
